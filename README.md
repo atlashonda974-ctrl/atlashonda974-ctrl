@@ -2,7 +2,9 @@
 
 # Atlashonda
 
-### Full-Stack Engineer · Cloud Architect · AI/ML Practitioner
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Cloud+Architect;AI%2FML+Practitioner;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atlashonda974)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/atlashonda974)
@@ -87,12 +89,18 @@ My work spans enterprise web platforms, real-time data pipelines, and AI/ML infr
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atlashonda974-ctrl&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=0A66C2&icon_color=0A66C2&text_color=24292f&bg_color=ffffff" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlashonda974-ctrl&layout=compact&theme=default&hide_border=true&langs_count=8&title_color=0A66C2&text_color=24292f&bg_color=ffffff" height="165" alt="Top Languages" />
+  <a href="https://github.com/atlashonda974-ctrl">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=atlashonda974-ctrl&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=0A66C2&icon_color=0A66C2" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/atlashonda974-ctrl">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlashonda974-ctrl&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=0A66C2" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=atlashonda974-ctrl&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="GitHub Streak" />
+  <a href="https://github.com/atlashonda974-ctrl">
+    <img src="https://streak-stats.demolab.com?user=atlashonda974-ctrl&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&stroke=0A66C2" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
