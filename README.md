@@ -96,12 +96,39 @@ I thrive on solving complex problems, architecting scalable solutions, and conti
 ### 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/atlashonda974-ctrl/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atlashonda974-ctrl&repo=project1&theme=dracula&hide_border=true" />
+  <a href="https://github.com/atlashonda974-ctrl/Surveyor_portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atlashonda974-ctrl&repo=Surveyor_portal&theme=dracula&hide_border=true" />
   </a>
-  <a href="https://github.com/atlashonda974-ctrl/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atlashonda974-ctrl&repo=project2&theme=dracula&hide_border=true" />
+  <a href="https://github.com/atlashonda974-ctrl/Marine_Portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atlashonda974-ctrl&repo=Marine_Portal&theme=dracula&hide_border=true" />
   </a>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>📋 Surveyor Portal</strong><br />
+        A comprehensive web portal for surveyors built with PHP Laravel Blade, CSS, and JavaScript. Features user management and survey tracking capabilities.
+      </td>
+      <td align="center">
+        <strong>🌊 Marine Portal</strong><br />
+        A marine management portal developed with PHP, CSS, and JavaScript. Includes API integration and a robust vendor-based architecture.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/API-FF6C37?style=flat&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
